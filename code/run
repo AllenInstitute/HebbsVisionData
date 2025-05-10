@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-set -ex
-
-python -u run_capsule.py "$@"
